@@ -1,5 +1,5 @@
 /*
-	Уменьшите размер поля City на NVARCHAR(20)
+	РЈРјРµРЅСЊС€РёС‚Рµ СЂР°Р·РјРµСЂ РїРѕР»СЏ City РЅР° NVARCHAR(20)
 */
 
 USE AdventureWorks2012
